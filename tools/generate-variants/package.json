@@ -1,0 +1,12 @@
+{
+  "name": "whiteboard-asset-variant-generator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Proof-of-concept generator: 5 original base SVGs into 50 catalog assets with manifests and thumbnails.",
+  "license": "CC0-1.0",
+  "scripts": {
+    "generate": "node generate.mjs",
+    "check": "node generate.mjs --check"
+  }
+}

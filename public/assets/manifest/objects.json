@@ -1,0 +1,286 @@
+[
+  {
+    "id": "objects-lightbulb-outline-ink",
+    "path": "/assets/objects/objects-lightbulb-outline-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-outline-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-outline-blue",
+    "path": "/assets/objects/objects-lightbulb-outline-blue.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-outline-blue-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-outline-green",
+    "path": "/assets/objects/objects-lightbulb-outline-green.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-outline-green-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-thin-ink",
+    "path": "/assets/objects/objects-lightbulb-thin-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-thin-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-thin-blue",
+    "path": "/assets/objects/objects-lightbulb-thin-blue.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-thin-blue-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-bold-ink",
+    "path": "/assets/objects/objects-lightbulb-bold-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-bold-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-bold-orange",
+    "path": "/assets/objects/objects-lightbulb-bold-orange.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-bold-orange-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-rough-ink",
+    "path": "/assets/objects/objects-lightbulb-rough-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-rough-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-rough-blue",
+    "path": "/assets/objects/objects-lightbulb-rough-blue.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-rough-blue-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-fill-accent",
+    "path": "/assets/objects/objects-lightbulb-fill-accent.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-fill-accent-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  }
+]

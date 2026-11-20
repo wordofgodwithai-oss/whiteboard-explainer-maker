@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "objects-lightbulb-outline-ink",
+    "path": "/assets/objects/objects-lightbulb-outline-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-outline-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-outline-blue",
+    "path": "/assets/objects/objects-lightbulb-outline-blue.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-outline-blue-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-outline-green",
+    "path": "/assets/objects/objects-lightbulb-outline-green.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-outline-green-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-thin-ink",
+    "path": "/assets/objects/objects-lightbulb-thin-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-thin-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-thin-blue",
+    "path": "/assets/objects/objects-lightbulb-thin-blue.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-thin-blue-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-bold-ink",
+    "path": "/assets/objects/objects-lightbulb-bold-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-bold-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-bold-orange",
+    "path": "/assets/objects/objects-lightbulb-bold-orange.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-bold-orange-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-rough-ink",
+    "path": "/assets/objects/objects-lightbulb-rough-ink.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-rough-ink-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-rough-blue",
+    "path": "/assets/objects/objects-lightbulb-rough-blue.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-rough-blue-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "objects-lightbulb-fill-accent",
+    "path": "/assets/objects/objects-lightbulb-fill-accent.svg",
+    "thumbnail": "/assets/objects/thumbs/objects-lightbulb-fill-accent-140.svg",
+    "category": "objects",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "thinking",
+      "innovation",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-outline-ink",
+    "path": "/assets/people/people-person-outline-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-outline-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-outline-blue",
+    "path": "/assets/people/people-person-outline-blue.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-outline-blue-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-outline-green",
+    "path": "/assets/people/people-person-outline-green.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-outline-green-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-thin-ink",
+    "path": "/assets/people/people-person-thin-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-thin-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-thin-blue",
+    "path": "/assets/people/people-person-thin-blue.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-thin-blue-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-bold-ink",
+    "path": "/assets/people/people-person-bold-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-bold-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-bold-orange",
+    "path": "/assets/people/people-person-bold-orange.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-bold-orange-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-rough-ink",
+    "path": "/assets/people/people-person-rough-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-rough-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-rough-blue",
+    "path": "/assets/people/people-person-rough-blue.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-rough-blue-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-fill-accent",
+    "path": "/assets/people/people-person-fill-accent.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-fill-accent-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-outline-ink",
+    "path": "/assets/charts/charts-chart-outline-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-outline-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-outline-blue",
+    "path": "/assets/charts/charts-chart-outline-blue.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-outline-blue-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-outline-green",
+    "path": "/assets/charts/charts-chart-outline-green.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-outline-green-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-thin-ink",
+    "path": "/assets/charts/charts-chart-thin-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-thin-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-thin-blue",
+    "path": "/assets/charts/charts-chart-thin-blue.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-thin-blue-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-bold-ink",
+    "path": "/assets/charts/charts-chart-bold-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-bold-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-bold-orange",
+    "path": "/assets/charts/charts-chart-bold-orange.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-bold-orange-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-rough-ink",
+    "path": "/assets/charts/charts-chart-rough-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-rough-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-rough-blue",
+    "path": "/assets/charts/charts-chart-rough-blue.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-rough-blue-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-fill-accent",
+    "path": "/assets/charts/charts-chart-fill-accent.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-fill-accent-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-outline-ink",
+    "path": "/assets/technology/technology-laptop-outline-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-outline-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-outline-blue",
+    "path": "/assets/technology/technology-laptop-outline-blue.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-outline-blue-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-outline-green",
+    "path": "/assets/technology/technology-laptop-outline-green.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-outline-green-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-thin-ink",
+    "path": "/assets/technology/technology-laptop-thin-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-thin-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-thin-blue",
+    "path": "/assets/technology/technology-laptop-thin-blue.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-thin-blue-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-bold-ink",
+    "path": "/assets/technology/technology-laptop-bold-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-bold-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-bold-orange",
+    "path": "/assets/technology/technology-laptop-bold-orange.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-bold-orange-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-rough-ink",
+    "path": "/assets/technology/technology-laptop-rough-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-rough-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-rough-blue",
+    "path": "/assets/technology/technology-laptop-rough-blue.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-rough-blue-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-fill-accent",
+    "path": "/assets/technology/technology-laptop-fill-accent.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-fill-accent-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-outline-ink",
+    "path": "/assets/nature/nature-cloud-outline-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-outline-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-outline-blue",
+    "path": "/assets/nature/nature-cloud-outline-blue.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-outline-blue-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-outline-green",
+    "path": "/assets/nature/nature-cloud-outline-green.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-outline-green-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-thin-ink",
+    "path": "/assets/nature/nature-cloud-thin-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-thin-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-thin-blue",
+    "path": "/assets/nature/nature-cloud-thin-blue.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-thin-blue-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-bold-ink",
+    "path": "/assets/nature/nature-cloud-bold-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-bold-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-bold-orange",
+    "path": "/assets/nature/nature-cloud-bold-orange.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-bold-orange-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-rough-ink",
+    "path": "/assets/nature/nature-cloud-rough-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-rough-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-rough-blue",
+    "path": "/assets/nature/nature-cloud-rough-blue.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-rough-blue-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-fill-accent",
+    "path": "/assets/nature/nature-cloud-fill-accent.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-fill-accent-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  }
+]

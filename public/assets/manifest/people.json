@@ -1,0 +1,286 @@
+[
+  {
+    "id": "people-person-outline-ink",
+    "path": "/assets/people/people-person-outline-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-outline-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-outline-blue",
+    "path": "/assets/people/people-person-outline-blue.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-outline-blue-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-outline-green",
+    "path": "/assets/people/people-person-outline-green.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-outline-green-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-thin-ink",
+    "path": "/assets/people/people-person-thin-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-thin-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-thin-blue",
+    "path": "/assets/people/people-person-thin-blue.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-thin-blue-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-bold-ink",
+    "path": "/assets/people/people-person-bold-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-bold-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-bold-orange",
+    "path": "/assets/people/people-person-bold-orange.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-bold-orange-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-rough-ink",
+    "path": "/assets/people/people-person-rough-ink.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-rough-ink-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-rough-blue",
+    "path": "/assets/people/people-person-rough-blue.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-rough-blue-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "people-person-fill-accent",
+    "path": "/assets/people/people-person-fill-accent.svg",
+    "thumbnail": "/assets/people/thumbs/people-person-fill-accent-140.svg",
+    "category": "people",
+    "tags": [
+      "person",
+      "teacher",
+      "presenter",
+      "human",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  }
+]

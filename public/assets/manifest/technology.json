@@ -1,0 +1,286 @@
+[
+  {
+    "id": "technology-laptop-outline-ink",
+    "path": "/assets/technology/technology-laptop-outline-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-outline-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-outline-blue",
+    "path": "/assets/technology/technology-laptop-outline-blue.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-outline-blue-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-outline-green",
+    "path": "/assets/technology/technology-laptop-outline-green.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-outline-green-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-thin-ink",
+    "path": "/assets/technology/technology-laptop-thin-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-thin-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-thin-blue",
+    "path": "/assets/technology/technology-laptop-thin-blue.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-thin-blue-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-bold-ink",
+    "path": "/assets/technology/technology-laptop-bold-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-bold-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-bold-orange",
+    "path": "/assets/technology/technology-laptop-bold-orange.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-bold-orange-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-rough-ink",
+    "path": "/assets/technology/technology-laptop-rough-ink.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-rough-ink-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-rough-blue",
+    "path": "/assets/technology/technology-laptop-rough-blue.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-rough-blue-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "technology-laptop-fill-accent",
+    "path": "/assets/technology/technology-laptop-fill-accent.svg",
+    "thumbnail": "/assets/technology/thumbs/technology-laptop-fill-accent-140.svg",
+    "category": "technology",
+    "tags": [
+      "laptop",
+      "computer",
+      "work",
+      "online",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "id": "nature-cloud-outline-ink",
+    "path": "/assets/nature/nature-cloud-outline-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-outline-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-outline-blue",
+    "path": "/assets/nature/nature-cloud-outline-blue.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-outline-blue-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-outline-green",
+    "path": "/assets/nature/nature-cloud-outline-green.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-outline-green-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-thin-ink",
+    "path": "/assets/nature/nature-cloud-thin-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-thin-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-thin-blue",
+    "path": "/assets/nature/nature-cloud-thin-blue.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-thin-blue-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-bold-ink",
+    "path": "/assets/nature/nature-cloud-bold-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-bold-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-bold-orange",
+    "path": "/assets/nature/nature-cloud-bold-orange.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-bold-orange-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-rough-ink",
+    "path": "/assets/nature/nature-cloud-rough-ink.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-rough-ink-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-rough-blue",
+    "path": "/assets/nature/nature-cloud-rough-blue.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-rough-blue-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "nature-cloud-fill-accent",
+    "path": "/assets/nature/nature-cloud-fill-accent.svg",
+    "thumbnail": "/assets/nature/thumbs/nature-cloud-fill-accent-140.svg",
+    "category": "nature",
+    "tags": [
+      "cloud",
+      "weather",
+      "rain",
+      "sky",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  }
+]

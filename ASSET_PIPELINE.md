@@ -249,6 +249,13 @@ Remember: reaching 5,000 is mostly a **content operations** effort. Coding the p
 
 ---
 
-## 14. First concrete task
+## 14. First concrete task — implemented
 
-Build `tools/generate-variants/` that takes 5 base SVG drawings and produces 50 reviewed-ready variants with filled manifests and thumbnails. That proves the "thousands" approach before we scale the base library.
+`tools/generate-variants/` is in place. It takes 5 original base SVG drawings and produces **50 variants** with:
+
+- full SVG assets and 140px thumbnails under `public/assets/`,
+- sharded manifests plus `all.json` following the schema in §6,
+- a visual `public/assets/contact-sheet.html` for review,
+- a `--check` mode that verifies files and placeholder removal.
+
+Run it with `node tools/generate-variants/generate.mjs`. This proves the variant-generation half of the pipeline; the remaining work is increasing the number of *base* drawings and adding the review/search layers.

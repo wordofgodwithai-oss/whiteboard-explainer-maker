@@ -1,0 +1,296 @@
+[
+  {
+    "id": "charts-chart-outline-ink",
+    "path": "/assets/charts/charts-chart-outline-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-outline-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "outline",
+      "ink"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-outline-blue",
+    "path": "/assets/charts/charts-chart-outline-blue.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-outline-blue-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "outline",
+      "blue"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-outline-green",
+    "path": "/assets/charts/charts-chart-outline-green.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-outline-green-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "outline",
+      "green"
+    ],
+    "style": [
+      "outline"
+    ],
+    "palette": [
+      "green"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-thin-ink",
+    "path": "/assets/charts/charts-chart-thin-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-thin-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "thin",
+      "ink"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-thin-blue",
+    "path": "/assets/charts/charts-chart-thin-blue.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-thin-blue-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "thin",
+      "blue"
+    ],
+    "style": [
+      "thin"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-bold-ink",
+    "path": "/assets/charts/charts-chart-bold-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-bold-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "bold",
+      "ink"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-bold-orange",
+    "path": "/assets/charts/charts-chart-bold-orange.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-bold-orange-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "bold",
+      "orange"
+    ],
+    "style": [
+      "bold"
+    ],
+    "palette": [
+      "orange"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-rough-ink",
+    "path": "/assets/charts/charts-chart-rough-ink.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-rough-ink-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "rough",
+      "hand-drawn",
+      "ink"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "ink"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-rough-blue",
+    "path": "/assets/charts/charts-chart-rough-blue.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-rough-blue-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "rough",
+      "hand-drawn",
+      "blue"
+    ],
+    "style": [
+      "rough",
+      "hand-drawn"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  },
+  {
+    "id": "charts-chart-fill-accent",
+    "path": "/assets/charts/charts-chart-fill-accent.svg",
+    "thumbnail": "/assets/charts/thumbs/charts-chart-fill-accent-140.svg",
+    "category": "charts",
+    "tags": [
+      "chart",
+      "graph",
+      "growth",
+      "data",
+      "analytics",
+      "filled",
+      "blue"
+    ],
+    "style": [
+      "filled"
+    ],
+    "palette": [
+      "blue"
+    ],
+    "license": "CC0-1.0",
+    "source": "original-generator",
+    "attribution": "",
+    "approvedBy": null,
+    "status": "pending-review",
+    "version": 1,
+    "aspect": "1:1",
+    "animatedStroke": true
+  }
+]
